@@ -1,0 +1,10 @@
+{
+    "password": "0000",
+    "gpt_model": "gpt-4o-mini",
+    "format_img": "jpg",
+    "folder_name": "screenshots",
+    "chatgpt_token": "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",
+    "spreadsheet_id": "1eJ1qYheJXv7FyJ-mDOKPFCZLHfhau0B89xlVF_Z1zw4",
+    "telegram_token": "7640939296:AAE7RPghfco-L5Hero83uX33nmu5XVr3p8I",
+    "google_key_path": "chave.json"
+}
